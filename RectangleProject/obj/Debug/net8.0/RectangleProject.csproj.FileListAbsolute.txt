@@ -1,0 +1,15 @@
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\bin\Debug\net8.0\RectangleProject.exe
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\bin\Debug\net8.0\RectangleProject.deps.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\bin\Debug\net8.0\RectangleProject.runtimeconfig.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\bin\Debug\net8.0\RectangleProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\bin\Debug\net8.0\RectangleProject.pdb
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\obj\Debug\net8.0\RectangleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\obj\Debug\net8.0\RectangleProject.AssemblyInfoInputs.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\obj\Debug\net8.0\RectangleProject.AssemblyInfo.cs
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\obj\Debug\net8.0\RectangleProject.csproj.CoreCompileInputs.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\obj\Debug\net8.0\RectangleProject.sourcelink.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\obj\Debug\net8.0\RectangleProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\obj\Debug\net8.0\refint\RectangleProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\obj\Debug\net8.0\RectangleProject.pdb
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\obj\Debug\net8.0\RectangleProject.genruntimeconfig.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\RectangleProject\obj\Debug\net8.0\ref\RectangleProject.dll
