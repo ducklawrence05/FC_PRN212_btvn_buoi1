@@ -1,0 +1,15 @@
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\bin\Debug\net8.0\SwapProject.exe
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\bin\Debug\net8.0\SwapProject.deps.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\bin\Debug\net8.0\SwapProject.runtimeconfig.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\bin\Debug\net8.0\SwapProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\bin\Debug\net8.0\SwapProject.pdb
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\obj\Debug\net8.0\SwapProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\obj\Debug\net8.0\SwapProject.AssemblyInfoInputs.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\obj\Debug\net8.0\SwapProject.AssemblyInfo.cs
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\obj\Debug\net8.0\SwapProject.csproj.CoreCompileInputs.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\obj\Debug\net8.0\SwapProject.sourcelink.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\obj\Debug\net8.0\SwapProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\obj\Debug\net8.0\refint\SwapProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\obj\Debug\net8.0\SwapProject.pdb
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\obj\Debug\net8.0\SwapProject.genruntimeconfig.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\SwapProject\obj\Debug\net8.0\ref\SwapProject.dll

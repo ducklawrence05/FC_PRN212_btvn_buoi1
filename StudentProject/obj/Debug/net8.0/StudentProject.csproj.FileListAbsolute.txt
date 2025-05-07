@@ -1,0 +1,15 @@
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\bin\Debug\net8.0\StudentProject.exe
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\bin\Debug\net8.0\StudentProject.deps.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\bin\Debug\net8.0\StudentProject.runtimeconfig.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\bin\Debug\net8.0\StudentProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\bin\Debug\net8.0\StudentProject.pdb
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\obj\Debug\net8.0\StudentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\obj\Debug\net8.0\StudentProject.AssemblyInfoInputs.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\obj\Debug\net8.0\StudentProject.AssemblyInfo.cs
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\obj\Debug\net8.0\StudentProject.csproj.CoreCompileInputs.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\obj\Debug\net8.0\StudentProject.sourcelink.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\obj\Debug\net8.0\StudentProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\obj\Debug\net8.0\refint\StudentProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\obj\Debug\net8.0\StudentProject.pdb
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\obj\Debug\net8.0\StudentProject.genruntimeconfig.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\StudentProject\obj\Debug\net8.0\ref\StudentProject.dll

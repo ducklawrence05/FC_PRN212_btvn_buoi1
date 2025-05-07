@@ -1,0 +1,15 @@
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\bin\Debug\net8.0\DecomposeNumberProject.exe
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\bin\Debug\net8.0\DecomposeNumberProject.deps.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\bin\Debug\net8.0\DecomposeNumberProject.runtimeconfig.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\bin\Debug\net8.0\DecomposeNumberProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\bin\Debug\net8.0\DecomposeNumberProject.pdb
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\obj\Debug\net8.0\DecomposeNumberProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\obj\Debug\net8.0\DecomposeNumberProject.AssemblyInfoInputs.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\obj\Debug\net8.0\DecomposeNumberProject.AssemblyInfo.cs
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\obj\Debug\net8.0\DecomposeNumberProject.csproj.CoreCompileInputs.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\obj\Debug\net8.0\DecomposeNumberProject.sourcelink.json
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\obj\Debug\net8.0\DecomposeNumberProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\obj\Debug\net8.0\refint\DecomposeNumberProject.dll
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\obj\Debug\net8.0\DecomposeNumberProject.pdb
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\obj\Debug\net8.0\DecomposeNumberProject.genruntimeconfig.cache
+C:\0LamViec\2FunnyCode\ki_4\PRN212\btvn\BTVN01\DecomposeNumberProject\obj\Debug\net8.0\ref\DecomposeNumberProject.dll

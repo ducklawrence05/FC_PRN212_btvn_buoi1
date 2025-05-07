@@ -1,36 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\PRN212_SU25\\FirstSolution\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B12DDE34-42B2-407A-AD3D-CB0F4D9DBC01}|FirstProject\\FirstProject.csproj|d:\\documents\\prn212_su25\\firstsolution\\firstproject\\btvn01.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B12DDE34-42B2-407A-AD3D-CB0F4D9DBC01}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\btvn01.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF667D0-CF64-4577-A093-3AC9D7068A2B}|SecondProject\\SecondProject.csproj|d:\\documents\\prn212_su25\\firstsolution\\secondproject\\btvn02.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ECF667D0-CF64-4577-A093-3AC9D7068A2B}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\btvn02.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B12DDE34-42B2-407A-AD3D-CB0F4D9DBC01}|FirstProject\\FirstProject.csproj|d:\\documents\\prn212_su25\\firstsolution\\firstproject\\firstproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B12DDE34-42B2-407A-AD3D-CB0F4D9DBC01}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\firstproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF667D0-CF64-4577-A093-3AC9D7068A2B}|SecondProject\\SecondProject.csproj|d:\\documents\\prn212_su25\\firstsolution\\secondproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF667D0-CF64-4577-A093-3AC9D7068A2B}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF667D0-CF64-4577-A093-3AC9D7068A2B}|SecondProject\\SecondProject.csproj|d:\\documents\\prn212_su25\\firstsolution\\secondproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF667D0-CF64-4577-A093-3AC9D7068A2B}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF667D0-CF64-4577-A093-3AC9D7068A2B}|SecondProject\\SecondProject.csproj|d:\\documents\\prn212_su25\\firstsolution\\secondproject\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF667D0-CF64-4577-A093-3AC9D7068A2B}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B12DDE34-42B2-407A-AD3D-CB0F4D9DBC01}|FirstProject\\FirstProject.csproj|d:\\documents\\prn212_su25\\firstsolution\\firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B12DDE34-42B2-407A-AD3D-CB0F4D9DBC01}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\0LamViec\\2FunnyCode\\ki_4\\PRN212\\btvn\\BTVN01\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,102 +9,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BTVN02.json",
-              "DocumentMoniker": "D:\\Documents\\PRN212_SU25\\FirstSolution\\SecondProject\\BTVN02.json",
-              "RelativeDocumentMoniker": "SecondProject\\BTVN02.json",
-              "ToolTip": "D:\\Documents\\PRN212_SU25\\FirstSolution\\SecondProject\\BTVN02.json",
-              "RelativeToolTip": "SecondProject\\BTVN02.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T13:40:05.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BTVN01.json",
-              "DocumentMoniker": "D:\\Documents\\PRN212_SU25\\FirstSolution\\FirstProject\\BTVN01.json",
-              "RelativeDocumentMoniker": "FirstProject\\BTVN01.json",
-              "ToolTip": "D:\\Documents\\PRN212_SU25\\FirstSolution\\FirstProject\\BTVN01.json",
-              "RelativeToolTip": "FirstProject\\BTVN01.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T13:38:33.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FirstProject",
-              "DocumentMoniker": "D:\\Documents\\PRN212_SU25\\FirstSolution\\FirstProject\\FirstProject.csproj",
-              "RelativeDocumentMoniker": "FirstProject\\FirstProject.csproj",
-              "ToolTip": "D:\\Documents\\PRN212_SU25\\FirstSolution\\FirstProject\\FirstProject.csproj",
-              "RelativeToolTip": "FirstProject\\FirstProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-07T13:38:15.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IStudent.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212_SU25\\FirstSolution\\SecondProject\\IStudent.cs",
-              "RelativeDocumentMoniker": "SecondProject\\IStudent.cs",
-              "ToolTip": "D:\\Documents\\PRN212_SU25\\FirstSolution\\SecondProject\\IStudent.cs",
-              "RelativeToolTip": "SecondProject\\IStudent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:37:35.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212_SU25\\FirstSolution\\SecondProject\\Student.cs",
-              "RelativeDocumentMoniker": "SecondProject\\Student.cs",
-              "ToolTip": "D:\\Documents\\PRN212_SU25\\FirstSolution\\SecondProject\\Student.cs",
-              "RelativeToolTip": "SecondProject\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:30:37.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212_SU25\\FirstSolution\\SecondProject\\Program.cs",
-              "RelativeDocumentMoniker": "SecondProject\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212_SU25\\FirstSolution\\SecondProject\\Program.cs",
-              "RelativeToolTip": "SecondProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:28:56.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212_SU25\\FirstSolution\\FirstProject\\Program.cs",
-              "RelativeDocumentMoniker": "FirstProject\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212_SU25\\FirstSolution\\FirstProject\\Program.cs",
-              "RelativeToolTip": "FirstProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:24:32.012Z",
-              "EditorCaption": ""
             }
           ]
         }
